@@ -1,4 +1,4 @@
-# tech-blog14
+# tech-blog
 Module 14 Challenge Assignment: Model-View-Controller (MVC) Challenge: Tech Blog
 
 
@@ -108,15 +108,23 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 
 ## Screenshots of Application in Use
+
 Home Page:
+<img width="1108" alt="Screen Shot 2023-01-16 at 1 03 11 AM" src="https://user-images.githubusercontent.com/114618684/212617569-3dae7df0-768b-40fc-a043-5345e4f26c0d.png">
 
 Login:
+<img width="952" alt="Screen Shot 2023-01-16 at 12 56 22 AM" src="https://user-images.githubusercontent.com/114618684/212617532-76a25043-c57d-415b-98ca-4f665944c0a4.png">
 
 Signup:
+<img width="1093" alt="Screen Shot 2023-01-16 at 1 04 38 AM" src="https://user-images.githubusercontent.com/114618684/212617648-68505709-9e94-4b6c-8300-ba7fb571a936.png">
+
 
 Create New Post:
+<img width="1095" alt="Screen Shot 2023-01-16 at 12 59 57 AM" src="https://user-images.githubusercontent.com/114618684/212617554-c3539209-f06c-420e-ac8f-e319f6ff94b2.png">
 
 Add a comment:
+<img width="1096" alt="Screen Shot 2023-01-16 at 1 04 04 AM" src="https://user-images.githubusercontent.com/114618684/212617612-08a3aebf-b236-47a4-b659-800938ae9665.png">
+
 
 
 ## Technologies
