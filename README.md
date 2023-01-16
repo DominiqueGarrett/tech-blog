@@ -1,6 +1,8 @@
 # tech-blog
 Module 14 Challenge Assignment: Model-View-Controller (MVC) Challenge: Tech Blog
 
+Deployed Link: https://module14-blog.herokuapp.com 
+
 
 ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
