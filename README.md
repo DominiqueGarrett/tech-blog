@@ -92,9 +92,9 @@ npm install
 Create an '.env' file in the main directory path and include the following data:
 
 ```
-DB_NAME='your_database_name'
-DB_USER='your_mysql_username'
-DB_PW='your_mysql_password'
+DB_NAME='developing_tech_db'
+DB_USER='root'
+DB_PASSWORD=''
 ```
 
 Once your '.env' has been created with the corresponding data, open up the schema ('db/schema.sql') and update the database label to match with the database you included in your '.env' file.
